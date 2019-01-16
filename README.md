@@ -1,2 +1,2 @@
 # bank-system-using-oops
-it provides graphhical inerface
+it provides graphhical interface
